@@ -1,5 +1,5 @@
 /*
-############################## ERGASIA 3 ##################################
+############################## Statistis ##################################
 #									  #
 #   A server for Statistics only program in which the server can 	  #
 #   receive or send a number of messages with specific length. The	  #
