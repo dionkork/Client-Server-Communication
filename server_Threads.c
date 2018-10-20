@@ -1,13 +1,13 @@
 /*
-############################## ERGASIA 3 ##############################
+############################## ZSUN COMM ##############################
 # 								      #
 #   A server program in which the program can receive a number of     #
-#   clients which is defines by MAX_CLIENTS. Each client can send     #
-#   receive messages to and from the server. The server uses the TCP  #
-#   protocol for communications. Each client can be served at the     #
-#   same time which depends on value MAX_CLIENTS. The server can      #
-#   save the messages and return them uppon request. In order to      #
-#   return the message the server requirs an ip from the client.      #
+#   clients which is defined by MAX_CLIENTS. Each client can send     #
+#   and receive messages to and from the server. The server uses      #
+#   the TCP protocol for communications. Each client can be served    #
+#   at the same time which depends on value MAX_CLIENTS. The server   #
+#   can save the messages and return them uppon request. In order     #
+#   to return the message the server requirs an ip from the client.   #
 #								      #
 #   The TCP port is need as an argument.			      #
 #   								      #
