@@ -1,5 +1,5 @@
 /*
-############################## ERGASIA 3 ##############################
+############################## ZSUN COMM ##############################
 # 								      #
 #   A client program in which the user can send and receive messages  #
 #   from a server. The user types his ip and can choose an option to  #
