@@ -1,5 +1,5 @@
 /*
-############################## ERGASIA 3 ##############################
+############################# Statistics  #############################
 # 					                              #
 #   A client for Statistics only program in which the user can type   #
 #   the number of messages he wish to receive or send and the length  #
